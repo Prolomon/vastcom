@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0",
+    "productName": "dano milk",
+    "productPrice": "59499",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "2",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  },
+  {
+    "id": "1",
+    "productName": "spagetti",
+    "productPrice": "83289",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "17",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  },
+  {
+    "id": "2",
+    "productName": "bottle watter",
+    "productPrice": "163500",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "78",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  },
+  {
+    "id": "3",
+    "productName": "tomtom",
+    "productPrice": "59499",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "730",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  },
+  {
+    "id": "4",
+    "productName": "dano milk",
+    "productPrice": "59499",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "20",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  },
+  {
+    "id": "5",
+    "productName": "maltina",
+    "productPrice": "99053",
+    "purchasePrice": "456728",
+    "category": "category",
+    "quantity": "0",
+    "comment": "new comment",
+    "totalPrice": "450000",
+    "purchaseDate": "01/12/2023"
+  }
+]
