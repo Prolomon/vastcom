@@ -1,6 +1,6 @@
-# React + Vite
+# Vast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template for an ecommerce site for uploading goods and keping track of goods for a warehouse, shopping website backend, super market and many others.
 
 Currently, two official plugins are available:
 
