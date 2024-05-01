@@ -10,7 +10,6 @@ const AddStock = lazy(() => import("../../Page/AddStock/AddStock"))
 const Log = lazy(() => import("../../Page/Log/Log"))
 const Purchase = lazy(() => import("../../Page/Purchase/Purchase"))
 const Report = lazy(() => import("../../Page/Report/Report"))
-const Appointment = lazy(() => import("../../Page/Appointment/Appointment"))
 
 const Main = () => {
   
