@@ -49,9 +49,6 @@ const Main = () => {
           <Route path="/Report" element={<Suspense fallback={<Loader />}>
             <Report />
           </Suspense>} />
-          <Route path="/Appointment" element={<Suspense fallback={<Loader />}>
-            <Appointment />
-          </Suspense>} />
         </Routes>
     </main>
   )
